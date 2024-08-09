@@ -12,7 +12,7 @@ http://103.230.105.252:1935/live/ntv/manifest.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://imgpile.com/images/58KJbk.png",DESHI TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png",Jamuna TV
-https://ythls-v3.onrender.com/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
+https://www.youtube.com/live/Rc13KtCBlHQ?si=zKfQ2Dn66NFcT-hr
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png",Channel 24
 https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png",SOMOY TV
